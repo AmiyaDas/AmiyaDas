@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - Working at SAP
 - 🌱 I’m currently learning React, Express & more
-- 📫 How to reach me - https://amiyaranjan.in
+- 📫 How to reach me - ranjandass13@gmail.com & https://amiyaranjan.in
 
 <!---
 AmiyaDas/AmiyaDas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
